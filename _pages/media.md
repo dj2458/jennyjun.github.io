@@ -6,6 +6,12 @@ author_profile: true
 ---
 
 ## Recorded Talks
+[Artificial Intelligence and North Korea’s Cyber ’All-Purpose Sword](https://www.youtube.com/watch?v=igg_Zfr-KKs)<br>
+*Korea Economic Institute of America*, March 4, 2022<br>
+<br>
+[Cybersecurity: Is Seoul Ready for Pyongyang's Latest Threat?](https://www.youtube.com/watch?v=tjYDqQfINf4)<br>
+*Shorenstein APARC, Stanford University*, January 28, 2022<br>
+<br>
 [2nd Harvard Korean Security Summit: Global Non-Traditional Security Challenges](https://www.belfercenter.org/event/2nd-harvard-korean-security-summit-korea-oracle-global-trends)<br>
 *The Korea Project, Belfer Center for Science and International Affairs*, February 8, 2021<br>
 <br>
@@ -17,6 +23,12 @@ author_profile: true
 *The Impossible State Podcast*, CSIS, March 15, 2021
 
 ## Selected News Interviews
+[As North Korean cyberattacks wreak havoc, insurers move to safeguard industry](https://www.nknews.org/pro/as-north-korean-cyberattacks-wreak-havoc-insurers-move-to-safeguard-industry/)<br>
+*NK Pro*, August 26, 2022<br>
+<br>
+[North Korea’s increasing use of crypto heists to fund nukes worries US](https://thehill.com/policy/technology/3590126-north-koreas-increasing-use-of-crypto-heists-to-fund-nukes-worries-us/)<br>
+*The Hill*, August 9, 2022<br>
+<br>
 ["A Growing Army of Hackers Helps Keep Kim Jong Un in Power"](https://www.bloomberg.com/news/articles/2021-12-21/north-korean-army-of-cybercriminals-props-up-kim-s-nuclear-program-and-economy)<br>
 *Bloomberg Businessweek*, December 22, 2021<br>
 <br>

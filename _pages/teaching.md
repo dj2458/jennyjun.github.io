@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 **International Politics** (undergraduate)<br>
+Fall 2022, Teaching Assistant, Instructor: Camara Silver<br>
 Spring 2022, Teaching Assistant, Instructor: Alex de la Paz<br>
 Fall 2018, Head Teaching Assistant, Instructor: Bruce Cronin<br>
 Spring 2018, Teaching Assistant, Instructor: Robert Jervis<br>

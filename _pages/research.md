@@ -9,10 +9,7 @@ author_profile: true
 
 **Will Artificial Intelligence (AI) Hone North Korea’s Cyber ‘All-Purpose Sword'?** <br>
 with Scott Harold, Nathan Beauchamp-Mustafaga, Diana Myers, and Derek Grossman <br>
-*Forthcoming*, Korea Economic Institute Special Report, 2022<br>
-<br>
-**Cyber Coercion: Insights from North Korea’s Cyber Campaigns**<br>
-*Forthcoming*, International Institute for Strategic Studies (IISS), 2022<br>
+Korea Economic Institute of America, Special Report No. 7, 2022 [Link](https://keia.org/publication/will-artificial-intelligence-hone-north-koreas-cyber-all-purpose-sword/)<br>
 <br>
 **Combating Foreign Influence Efforts on Social Media: Study Overview and Conclusions** <br>
 with Raphael S. Cohen, Nathan Beauchamp-Mustafaga, Joseph Cheravitch, Alyssa Demus, Scott W. Harold, Michael Schwille, Elina Treyger, Nathan Vest<br>
@@ -27,19 +24,21 @@ with Nathan Beauchamp-Mustafaga<br>
 Yonsei Journal of International Studies, 5(1), 2013 [Link](https://yonseijournal.files.wordpress.com/2014/05/spring-2013_getting-china-to-enforce-sanctions.pdf)<br>
 
 ## Working Papers
-Coercion in Cyberspace: A Formal Model of Extortion via Encryption [Link](https://www.dropbox.com/s/yueszs5mkbrcjhe/Jun_Ransomware_Dec21.pdf?dl=0)<br>
-<br>
-Defend Forward and Paths to Destabilization in Cyberspace
+Coercion in Cyberspace: A Formal Model of Extortion via Encryption [Link](https://www.dropbox.com/s/yueszs5mkbrcjhe/Jun_Ransomware_Dec21.pdf?dl=0)
 
 ## Works in Progress
 To Defend or Deter? Intelligence Competition and Sharing Mutual Vulnerabilities in Cyberspace<br>
 with Nadiya Kostyuk<br>
 <br>
-Revisiting Theoretical foundations for Persistent Engagement and Defend Forward<br>
-<br>
 Conditions for the Severity of the Cyber Commitment Problem: A Lab Experiment
 
 ## Selected Policy Writing
+"The U.S.-Japan-South Korea Trilateral Cybersecurity Relationship"<br>
+*Atlantic Council*, August 2022 [Link](https://www.atlanticcouncil.org/content-series/the-5x5/the-5x5-the-us-japan-south-korea-trilateral-cybersecurity-relationship/)<br>
+<br>
+"Preparing the next phase of U.S. cyber strategy"<br>
+*Atlantic Council*, March 2022 [Link](https://www.atlanticcouncil.org/wp-content/uploads/2022/03/Preparing-the-next-phase-of-US-cyber-strategy.pdf)<br>
+<br>
 “The Pros and Cons of Mandating Reporting From Ransomware Victims”<br>
 with Nadiya Kostyuk, *Lawfare*, November 2021 [Link](https://www.lawfareblog.com/pros-and-cons-mandating-reporting-ransomware-victims)<br>
 <br>
